@@ -1,5 +1,5 @@
 #include "main.h"
-#include <string>
+#include <string.h>
 
 /**
  * _strncpy - Copy a string starting from index 0 of `dest`.
