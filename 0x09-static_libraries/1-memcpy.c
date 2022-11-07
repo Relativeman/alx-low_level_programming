@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include <stdio.h>
 
 /**
  * *_memcpy -  copies memory area from src to dest
